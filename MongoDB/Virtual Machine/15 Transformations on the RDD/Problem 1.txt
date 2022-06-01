@@ -1,0 +1,10 @@
+True or False: Since we need this transformation split crew field into on or more tuples we need to use the RDDs flatmap fuction
+
+Choose the best answer:
+
+[Single Answer]
+
+True
+False
+
+Answer: True
