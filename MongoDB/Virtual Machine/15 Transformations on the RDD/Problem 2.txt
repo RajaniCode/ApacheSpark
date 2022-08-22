@@ -1,0 +1,3 @@
+The reduceByKey Method is summing values by astronaut name. What is the unit of that value?
+
+Answer: minutes

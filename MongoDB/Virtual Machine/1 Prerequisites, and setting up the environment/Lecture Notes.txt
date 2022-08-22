@@ -1,0 +1,1 @@
+You can download the Vagrant file here [https://s3.amazonaws.com/edu-downloads.10gen.com/Vagrantfile]
